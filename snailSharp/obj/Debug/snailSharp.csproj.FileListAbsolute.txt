@@ -1,0 +1,10 @@
+D:\Necessary\Work\Kwork\DrawPascal\snailSharp\bin\Debug\snailSharp.exe.config
+D:\Necessary\Work\Kwork\DrawPascal\snailSharp\bin\Debug\snailSharp.exe
+D:\Necessary\Work\Kwork\DrawPascal\snailSharp\bin\Debug\snailSharp.pdb
+D:\Necessary\Work\Kwork\DrawPascal\snailSharp\obj\Debug\snailSharp.csprojAssemblyReference.cache
+D:\Necessary\Work\Kwork\DrawPascal\snailSharp\obj\Debug\snailSharp.Form1.resources
+D:\Necessary\Work\Kwork\DrawPascal\snailSharp\obj\Debug\snailSharp.Properties.Resources.resources
+D:\Necessary\Work\Kwork\DrawPascal\snailSharp\obj\Debug\snailSharp.csproj.GenerateResource.cache
+D:\Necessary\Work\Kwork\DrawPascal\snailSharp\obj\Debug\snailSharp.csproj.CoreCompileInputs.cache
+D:\Necessary\Work\Kwork\DrawPascal\snailSharp\obj\Debug\snailSharp.exe
+D:\Necessary\Work\Kwork\DrawPascal\snailSharp\obj\Debug\snailSharp.pdb
