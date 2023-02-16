@@ -1,0 +1,10 @@
+D:\Necessary\Work\Kwork\Nasy\Lisaju\bin\Debug\Lisaju.exe.config
+D:\Necessary\Work\Kwork\Nasy\Lisaju\bin\Debug\Lisaju.exe
+D:\Necessary\Work\Kwork\Nasy\Lisaju\bin\Debug\Lisaju.pdb
+D:\Necessary\Work\Kwork\Nasy\Lisaju\obj\Debug\Lisaju.csprojAssemblyReference.cache
+D:\Necessary\Work\Kwork\Nasy\Lisaju\obj\Debug\Lisaju.Properties.Resources.resources
+D:\Necessary\Work\Kwork\Nasy\Lisaju\obj\Debug\Lisaju.csproj.GenerateResource.cache
+D:\Necessary\Work\Kwork\Nasy\Lisaju\obj\Debug\Lisaju.csproj.CoreCompileInputs.cache
+D:\Necessary\Work\Kwork\Nasy\Lisaju\obj\Debug\Lisaju.exe
+D:\Necessary\Work\Kwork\Nasy\Lisaju\obj\Debug\Lisaju.pdb
+D:\Necessary\Work\Kwork\Nasy\Lisaju\obj\Debug\Lisaju.Form1.resources
