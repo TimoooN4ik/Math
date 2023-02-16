@@ -1,0 +1,4 @@
+D:\Necessary\Work\sine-Gordon equation\Debug\sine-Gordon equation.exe
+D:\Necessary\Work\sine-Gordon equation\Debug\sine-Gordon equation.pdb
+D:\Necessary\Work\Синус гордона. Сдан\sine-Gordon equation\Debug\sine-Gordon equation.exe
+D:\Necessary\Work\Синус гордона. Сдан\sine-Gordon equation\Debug\sine-Gordon equation.pdb
