@@ -1,0 +1,11 @@
+D:\Necessary\Work\Kwork\interph\Interpheromentr\bin\Debug\Interpheromentr.exe.config
+D:\Necessary\Work\Kwork\interph\Interpheromentr\bin\Debug\Interpheromentr.exe
+D:\Necessary\Work\Kwork\interph\Interpheromentr\bin\Debug\Interpheromentr.pdb
+D:\Necessary\Work\Kwork\interph\Interpheromentr\obj\Debug\Interpheromentr.Form1.resources
+D:\Necessary\Work\Kwork\interph\Interpheromentr\obj\Debug\Interpheromentr.Properties.Resources.resources
+D:\Necessary\Work\Kwork\interph\Interpheromentr\obj\Debug\Interpheromentr.csproj.GenerateResource.cache
+D:\Necessary\Work\Kwork\interph\Interpheromentr\obj\Debug\Interpheromentr.csproj.CoreCompileInputs.cache
+D:\Necessary\Work\Kwork\interph\Interpheromentr\obj\Debug\Interpheromentr.exe
+D:\Necessary\Work\Kwork\interph\Interpheromentr\obj\Debug\Interpheromentr.pdb
+D:\Necessary\Work\Kwork\interph\Interpheromentr\obj\Debug\Interpheromentr.DrawInterph.resources
+D:\Necessary\Work\Kwork\interph\Interpheromentr\obj\Debug\Interpheromentr.csproj.AssemblyReference.cache
